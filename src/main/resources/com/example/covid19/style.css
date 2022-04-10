@@ -1,0 +1,19 @@
+.txt{
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-background-color: transparent;
+}
+
+
+.combo{
+    -fx-background-color: transparent;
+    -fx-fill: white;
+    -jfx-focus-color: white;
+ 
+}
+
+.combo>.list-cell{
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+    -fx-text-fill:#fff;
+}
